@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir my_dir 751 dir_alx-system_engineering_devops
+mkdir -m 751 my_dir
